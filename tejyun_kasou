@@ -1,0 +1,7 @@
+
+
+"""仮想環境の作成⇒フォルダできる"""
+python -m venv env
+
+"""仮想環境を有効化"""
+env\Scripts\activate.bat
